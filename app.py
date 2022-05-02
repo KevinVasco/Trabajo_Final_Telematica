@@ -363,6 +363,3 @@ def open_toast(n, latitud, longitud):
 
 if __name__ == "__main__":
     app.run_server(host = "0.0.0.0", port = 80)
-
-#Run Docker Command with Dockerfile:  sudo docker build -t server:iot1 . <-- El punto
-#Run Docker Command manual: sudo docker run -d -p 80:80 server:iot1 python3 /home/app.py
