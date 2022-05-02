@@ -10,7 +10,7 @@ _Este proyecta consta de dos micoservicios de DNS y Web ejecutandose en un conte
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira [**Despliegue**](## Despliegue 📦) para conocer como desplegar el proyecto.
+Mira [Despliegue](## Despliegue 📦) para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
