@@ -10,7 +10,7 @@ _Este proyecta consta de dos micoservicios de DNS y Web ejecutandose en un conte
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+Mira **Despliegue** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 
@@ -49,10 +49,10 @@ sudo docker run -d -p 80:80 <name>:<tag> python3 /home/app.py
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Herramientas que se utilizo para crear el proyecto._
 
 * [AWS](https://aws.amazon.com/es/?nc2=h_lg) - Servidores de Prueba
-* [Docker](https://www.docker.com/) - Explicacion de que es
+* [Docker](https://www.docker.com/) - Servicio de contenedores
 * [Bind9](https://www.isc.org/bind/#) - Manejador DNS
 * [Python](https://www.python.org/) - Backend Web Service
 * [Dash](https://dash.plotly.com/) - Frontend Web Service
@@ -62,8 +62,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
 * **Kevin Vasco** - *Trabajo Inicial* - [KevinVasco](https://github.com/KevinVasco)
 
 ## Licencia 📄
@@ -72,7 +70,7 @@ Este proyecto está bajo la Licencia [LICENSE](LICENSE) - mira el archivo LICENS
 
 ## Expresiones de Gratitud 🎁
 
-* Invita una cerveza 🍺 a mi mismo.
-* Doy las gracias públicamente a mi mismo🤓.
+* Invito una cerveza 🍺 a mi mismo.
+* Doy las gracias públicamente a mi mismo 🤓.
 
 ---
