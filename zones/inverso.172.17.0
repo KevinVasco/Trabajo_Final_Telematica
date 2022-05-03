@@ -8,4 +8,4 @@ $TTL 86400 ;
         3H ;
 )
     IN  NS  wwww.miemprendimiento.com.
-96  IN  PTR www.miemprendimiento.com.
+2   IN  PTR www.miemprendimiento.com.
